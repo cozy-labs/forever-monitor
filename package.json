@@ -1,5 +1,5 @@
 {
-  "name": "forever-monitor",
+  "name": "cozy-forever-monitor",
   "description": "Core forever process monitor",
   "version": "1.7.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
